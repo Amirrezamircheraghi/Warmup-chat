@@ -1,1 +1,1 @@
-hi.I wrote this Project about 8 years ago.
+Hi.I wrote this Project about 8 years ago in C# language when I was a beginner . windows Form Application with sql server 2012. It is simple and has a lot of error and it's not Perfect Programming. But it's interesting to see at least once.Thanks
